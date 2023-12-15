@@ -7,7 +7,7 @@ Kelas : TI.22.A5
 
 Dosen Pengampu : Donny Maulana, S.Kom., M.M.S.I.
 
-#Tugas Pertemuan 12
+# Tugas Pertemuan 12
 ```
 Buatlah fragment menu dengan tema Genre Film (Action, Komedi dan Romance)
 
